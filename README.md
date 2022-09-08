@@ -1,2 +1,2 @@
-# pscanner.py
+# pscanner
 super fast single port scanner 
